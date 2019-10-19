@@ -1,4 +1,5 @@
 #arrays are sets of **positive integers**.
+#return the _index_ of the value
 
 
 
