@@ -11,6 +11,5 @@ end
 
 def find_min_value(array)
 
-   array.length.times do ||
   # Add your solution here
 end
