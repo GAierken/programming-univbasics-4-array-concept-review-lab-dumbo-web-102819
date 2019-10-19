@@ -5,7 +5,7 @@ end
 
 
 def find_max_value(array) #array of integers.
-    array.find_max_value
+    array.find_max
   # Add your solution here
 end
 
