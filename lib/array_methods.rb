@@ -13,7 +13,7 @@ def find_element_index(array, value_to_find)
   # Add your solution here
 end
 
-def find_max_value(array)
+def find_max_value(array) #array of integers.
   # Add your solution here
 end
 
