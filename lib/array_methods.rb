@@ -1,4 +1,4 @@
-#
+#arrays are sets of **positive integers**.
 
 
 
