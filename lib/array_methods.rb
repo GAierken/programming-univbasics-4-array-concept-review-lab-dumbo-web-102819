@@ -3,6 +3,7 @@ def find_element_index(array, value_to_find)
     while array.length.times {||}
           array.index[value_to_find]
     end
+    nil
 end
 
 
