@@ -6,7 +6,8 @@
 
 def find_element_index(array, value_to_find)
 
-    array.length.times do ||
+    array.length.times do {|index|
+      outs array[index]
 
 
     end
@@ -19,6 +20,7 @@ def find_max_value(array) #array of integers.
 end
 
 def find_min_value(array)
+
    array.length.times do ||
   # Add your solution here
 end
