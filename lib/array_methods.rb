@@ -8,13 +8,13 @@ def find_element_index(array, value_to_find)
 
     array.length.times do ||
 
-      
+
     end
   # Add your solution here
 end
 
 def find_max_value(array) #array of integers.
-    while end
+  array.length.times do ||
   # Add your solution here
 end
 
