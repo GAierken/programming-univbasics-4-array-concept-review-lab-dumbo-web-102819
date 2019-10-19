@@ -5,7 +5,6 @@ end
 
 
 def find_max_value(array) #array of integers.
-  array.length.times do
 
   # Add your solution here
 end
