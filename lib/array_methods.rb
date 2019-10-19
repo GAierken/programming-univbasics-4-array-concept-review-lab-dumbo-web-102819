@@ -6,9 +6,11 @@
 
 def find_element_index(array, value_to_find)
 
-    array.length.times do {|index|
-      outs array[index]
+    array.length.times do { |index|
+      puts array.index 
+      
     }
+      
 
 
     end
