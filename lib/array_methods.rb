@@ -14,7 +14,7 @@ def find_element_index(array, value_to_find)
 end
 
 def find_max_value(array) #array of integers.
-    while end 
+    while end
   # Add your solution here
 end
 
