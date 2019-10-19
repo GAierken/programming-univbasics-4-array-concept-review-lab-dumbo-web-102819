@@ -5,11 +5,11 @@ end
 
 
 def find_max_value(array) #array of integers.
-    array.max 
+    array.max
   # Add your solution here
 end
 
 def find_min_value(array)
-
+    array.min
   # Add your solution here
 end
